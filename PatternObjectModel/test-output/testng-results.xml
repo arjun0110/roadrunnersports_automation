@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="214949" started-at="2018-09-24T04:47:50Z" finished-at="2018-09-24T04:51:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="214949" started-at="2018-09-24T04:47:50Z" finished-at="2018-09-24T04:51:25Z">
+      <class name="testcases.PLP_Showproductsperpage">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="beforeSuite" is-config="true" duration-ms="950" started-at="2018-09-24T04:47:49Z" finished-at="2018-09-24T04:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="setData" is-config="true" duration-ms="0" started-at="2018-09-24T04:47:50Z" finished-at="2018-09-24T04:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="beforeClass" is-config="true" duration-ms="3" started-at="2018-09-24T04:47:50Z" finished-at="2018-09-24T04:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="beforeMethod" is-config="true" duration-ms="35025" started-at="2018-09-24T04:47:50Z" finished-at="2018-09-24T04:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sortBy()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="sortBy" duration-ms="176407" started-at="2018-09-24T04:48:25Z" finished-at="2018-09-24T04:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortBy -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="afterMethod" is-config="true" duration-ms="3457" started-at="2018-09-24T04:51:22Z" finished-at="2018-09-24T04:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-24T04:51:25Z" finished-at="2018-09-24T04:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.PLP_Showproductsperpage@127bd23]" name="afterSuite" is-config="true" duration-ms="1065" started-at="2018-09-24T04:51:41Z" finished-at="2018-09-24T04:51:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.PLP_Showproductsperpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
